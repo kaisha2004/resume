@@ -9,3 +9,4 @@ fs.readFile(__dirname + '/info.json', 'utf8', function(err, data) {
         return data
     }
 })
+

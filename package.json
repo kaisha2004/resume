@@ -1,9 +1,6 @@
-"bin": {
-  "your-command-here": "./index.js"
-},
 
 {
-  "name": "kaismith-resume",
+  "name": "kainj",
   "version": "1.0.0",
   "description": "about me",
   "main": "index.js",
@@ -13,3 +10,5 @@
   "author": "Kai Smith",
   "license": "ISC"
 }
+
+
